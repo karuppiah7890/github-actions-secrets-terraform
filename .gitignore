@@ -1,0 +1,7 @@
+configs.env
+
+**/.terraform/*
+
+*.tfstate*
+
+*tfplan*
